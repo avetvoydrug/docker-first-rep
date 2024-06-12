@@ -13,7 +13,7 @@ cd docker-first-rep
     ```
     docker build .
     ```
-    - Узнать <IMAGE ID>
+    - Узнать IMAGE ID
     ```
     docker images
     ```
